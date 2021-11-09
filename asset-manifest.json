@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "https://buebe.github.io/csb-fjvep/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://buebe.github.io/csb-fjvep/static/js/main.0db44d37.chunk.js",
-    "main.js.map": "https://buebe.github.io/csb-fjvep/static/js/main.0db44d37.chunk.js.map",
+    "main.css": "https://buebe.github.io/csb-fjvep/static/css/main.54305513.chunk.css",
+    "main.js": "https://buebe.github.io/csb-fjvep/static/js/main.62c67bca.chunk.js",
+    "main.js.map": "https://buebe.github.io/csb-fjvep/static/js/main.62c67bca.chunk.js.map",
     "runtime-main.js": "https://buebe.github.io/csb-fjvep/static/js/runtime-main.bdf77c2f.js",
     "runtime-main.js.map": "https://buebe.github.io/csb-fjvep/static/js/runtime-main.bdf77c2f.js.map",
-    "static/js/2.4f0cf8fb.chunk.js": "https://buebe.github.io/csb-fjvep/static/js/2.4f0cf8fb.chunk.js",
-    "static/js/2.4f0cf8fb.chunk.js.map": "https://buebe.github.io/csb-fjvep/static/js/2.4f0cf8fb.chunk.js.map",
+    "static/css/2.d8cc838b.chunk.css": "https://buebe.github.io/csb-fjvep/static/css/2.d8cc838b.chunk.css",
+    "static/js/2.62695260.chunk.js": "https://buebe.github.io/csb-fjvep/static/js/2.62695260.chunk.js",
+    "static/js/2.62695260.chunk.js.map": "https://buebe.github.io/csb-fjvep/static/js/2.62695260.chunk.js.map",
     "index.html": "https://buebe.github.io/csb-fjvep/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://buebe.github.io/csb-fjvep/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.4f0cf8fb.chunk.js.LICENSE.txt": "https://buebe.github.io/csb-fjvep/static/js/2.4f0cf8fb.chunk.js.LICENSE.txt"
+    "static/css/2.d8cc838b.chunk.css.map": "https://buebe.github.io/csb-fjvep/static/css/2.d8cc838b.chunk.css.map",
+    "static/css/main.54305513.chunk.css.map": "https://buebe.github.io/csb-fjvep/static/css/main.54305513.chunk.css.map",
+    "static/js/2.62695260.chunk.js.LICENSE.txt": "https://buebe.github.io/csb-fjvep/static/js/2.62695260.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bdf77c2f.js",
-    "static/js/2.4f0cf8fb.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.0db44d37.chunk.js"
+    "static/css/2.d8cc838b.chunk.css",
+    "static/js/2.62695260.chunk.js",
+    "static/css/main.54305513.chunk.css",
+    "static/js/main.62c67bca.chunk.js"
   ]
 }
